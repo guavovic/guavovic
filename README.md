@@ -1,6 +1,6 @@
 ## Gustavo Victor, Software Developer! 👋
 
-<h5 align="left" style="color:#36BCF7FF;">obs: Estou organizando meus repositorios atualmente, por isso readme's e projetos incompletos.</h5>
+<h5 align="left" style="color:#36BCF7FF;">obs: Estou organizando meus repositórios atualmente, por isso alguns readme's e projetos estão incompletos.</h5>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=2000&center=false&vCenter=true&random=true&width=2000&height=100&lines=Desenvolvedor+de+software+com+mais+de+3+anos+de+experi%C3%AAncia.;Apaixonado+por+c%C3%B3digo%2C+m%C3%BAsica+e+games.;Desenvolvo+jogos%2C+sistemas+e+solu%C3%A7%C3%B5es++multiplataformas.;Atuo+principalmente+com+C%23+e+Unity.;Gosto+de+explorar+outras+ferramentas+e+linguagens.)](https://git.io/typing-svg)
 
