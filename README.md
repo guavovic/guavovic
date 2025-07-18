@@ -13,7 +13,7 @@
 <h3 align="left">Conecte-se comigo!</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gustavo.victor/" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-victor/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gustavo.pinheiro@unifebe.edu.br" target="_blank">
