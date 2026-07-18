@@ -6,14 +6,6 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,py,postgres,supabase,docker,unity,git,github,visualstudio,vscode" alt="Tech stack" />
 </p>
 
-<h3 align="left">Featured Projects</h3>
-<p align="left">
-  <a href="https://github.com/guavovic/address-lookup-api"><b>address-lookup-api</b></a> Address lookup by ZIP code or city and state.<br>
-  <a href="https://github.com/guavovic/youtube-to-spotify-sync"><b>youtube-to-spotify-sync</b></a> Syncs YouTube playlists to Spotify.<br>
-  <a href="https://github.com/guavovic/personal-finance-app"><b>personal-finance-app</b></a> Personal finance management in ASP.NET Core with Clean Architecture.<br>
-  <a href="https://github.com/guavovic/3d-reconstruction-from-2d-images-public"><b>3d-reconstruction-from-2d-images</b></a> 3D reconstruction from 2D images using AI (final paper).
-</p>
-
 <h3 align="left">Let's connect!</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/gustavo-victor-pinheiro/" target="_blank">
