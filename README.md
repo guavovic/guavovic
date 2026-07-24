@@ -14,9 +14,6 @@
   <a href="mailto:gustavo.victor.pinheiro@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https:///" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 
 <br>
