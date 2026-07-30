@@ -1,5 +1,4 @@
 ## Gustavo Victor, Software Developer! 👋
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1000&pause=2000&center=false&vCenter=true&random=true&width=2000&height=100&lines=Software+developer+with+3%2B+years+of+experience.;Focused+on+back-end%2C+integrations+and+automation.;I+work+with+C%23%2F.NET%2C+JavaScript+and+AI+(LLMs).;I+build+integrations+with+REST+APIs+and+webhooks.;Passionate+about+code%2C+music+and+games.)](https://git.io/typing-svg)
 
 <h3 align="left">Main Technologies</h3>
 <p align="left">
