@@ -2,7 +2,7 @@
 
 <h3 align="left">Main Technologies</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,py,postgres,supabase,docker,unity,git,github,visualstudio,vscode" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,py,postgres,docker,unity,git,visualstudio,vscode" alt="Tech stack" />
 </p>
 
 <h3 align="left">Let's connect!</h3>
