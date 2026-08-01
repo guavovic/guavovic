@@ -1,4 +1,4 @@
-## Gustavo Victor, Software Developer! 👋
+## Gustavo Victor, Software Developer!
 
 <h3 align="left">Main Technologies</h3>
 <p align="left">
