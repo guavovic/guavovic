@@ -4,14 +4,6 @@ Desenvolvedor full stack. Gosto de back-end, integrações entre sistemas e de c
 
 Fora do código, faço música (FL Studio e violão) e mexo com jogos em Unity.
 
-### O que ando construindo
-
-- [Achaí](https://github.com/guavovic/achai): busca endereços brasileiros pelo CEP ou pelo logradouro. API em .NET e front em Angular.
-- [ascii-video-player](https://github.com/guavovic/ascii-video-player): toca vídeos no terminal em arte ASCII colorida, com áudio sincronizado.
-- [ponto-facial](https://github.com/guavovic/ponto-facial): registro de ponto que reconhece o funcionário pela câmera.
-- [real-time-predominant-color-detection-app](https://github.com/guavovic/real-time-predominant-color-detection-app): app que detecta as cores predominantes pela câmera, em tempo real.
-- [guavovic-ui](https://github.com/guavovic/guavovic-ui): tokens de design compartilhados pelos meus projetos web.
-
 ### Tecnologias
 
 <p align="left">
