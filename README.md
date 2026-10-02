@@ -5,10 +5,21 @@ Fora do código, tô sempre na música (FL Studio e violão) ou futucando algo d
 ### Tecnologias mais utilizadas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,angular,typescript,nodejs,py&perline=8" alt="Tecnologias" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,postgres,mongodb,docker,unity,git&perline=6" alt="Tecnologias" /><img src="icones/sql-server.svg" width="58" height="48" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="cs" />
+  <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="dotnet" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
+  <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
+  <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="angular" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="py" />
+  <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="unity" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
+  <img src="icones/sql-server.svg" width="48" height="48" alt="SQL Server" />
 </p>
 
 ---
