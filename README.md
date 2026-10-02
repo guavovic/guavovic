@@ -10,10 +10,10 @@ Fora do código, tô sempre na música (FL Studio e violão) ou futucando algo d
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,angular,typescript,js,nodejs,py,flutter,postgres,mongodb,docker,unity,git" alt="Tecnologias" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/-Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
-  <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="icones/sql-server.svg" width="48" height="48" alt="SQL Server" />
+  <img src="icones/hibernate.svg" width="48" height="48" alt="Hibernate" />
+  <img src="icones/flyway.svg" width="48" height="48" alt="Flyway" />
+  <img src="icones/azure-devops.svg" width="48" height="48" alt="Azure DevOps" />
 </p>
 
 ### Contato
