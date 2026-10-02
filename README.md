@@ -1,6 +1,8 @@
-## Fala, eu sou o Gustavo Victor
+## Gustavo Victor
 
-Dev full stack que curte back-end, integrações e IA. Fora do código, tô sempre com música (FL Studio e violão) ou mexendo em jogo no Unity.
+Desenvolvedor Full Stack | Software Developer
+
+Fora do código, tô sempre na música (FL Studio e violão) ou futucando algo de jogos.
 
 ### O que eu uso
 
@@ -14,9 +16,7 @@ Dev full stack que curte back-end, integrações e IA. Fora do código, tô semp
   <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
 </p>
 
-### Bora trocar uma ideia?
-
-Manda um e-mail, vai ser um prazer conversar.
+### Contato
 
 <p align="left">
   <a href="mailto:gustavo.victor.pinheiro@gmail.com" target="_blank">
