@@ -1,6 +1,11 @@
-## Gustavo Victor - Software Developer!
+## Gustavo Victor, Software Developer!
 
-Fora do código, tô sempre na música (FL Studio e violão) ou futucando algo de jogos.
+### Projetos
+
+<p align="left">
+  
+</p>
+
 
 ### Tecnologias mais utilizadas
 
@@ -21,8 +26,6 @@ Fora do código, tô sempre na música (FL Studio e violão) ou futucando algo d
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
   <img src="icones/sql-server.svg" width="48" height="48" alt="SQL Server" />
 </p>
-
----
 
 ### Contate-me
 
