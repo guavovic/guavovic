@@ -5,13 +5,15 @@ Fora do código, tô sempre na música (FL Studio e violão) ou futucando algo d
 ### Tecnologias mais utilizadas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,angular,typescript,nodejs,py,flutter,postgres,mongodb,docker,unity,git" alt="Tecnologias" />
-  <img src="icones/sql-server.svg" width="48" height="48" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,angular,typescript,nodejs,py&perline=8" alt="Tecnologias" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,postgres,mongodb,docker,unity,git&perline=6" alt="Tecnologias" /><img src="icones/sql-server.svg" width="58" height="48" alt="SQL Server" />
 </p>
 
 ---
 
-### Contato
+### Contate-me
 
 <p align="left">
   <a href="mailto:gustavo.victor.pinheiro@gmail.com" target="_blank">
