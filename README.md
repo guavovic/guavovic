@@ -1,12 +1,5 @@
 ## Gustavo Victor, Software Developer!
 
-### Projetos
-
-<p align="left">
-  
-</p>
-
-
 ### Tecnologias mais utilizadas
 
 <p align="left">
