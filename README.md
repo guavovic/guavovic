@@ -1,7 +1,5 @@
 # Bom dia, boa noite, boa tarde! Me chamo Gustavo 👋
 
-Desenvolvedor de software. Nas horas vagas, faço jogos.
-
 <p align="center">
   <img src="icones/guavovic.gif" alt="O mascote guavovic espiando, dando a língua e saindo correndo">
 </p>
