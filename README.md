@@ -3,11 +3,7 @@
 Desenvolvedor de software. Nas horas vagas, faço jogos.
 
 <p align="center">
-  <img src="icones/guavovic.gif" alt="guavovic" width="100%">
-</p>
-
-<p align="center">
-  <a href="https://guavovic.vercel.app">Site</a> · <a href="mailto:gustavo.victor.pinheiro@gmail.com">E-mail</a>
+  <img src="icones/guavovic.gif" alt="O mascote guavovic espiando, dando a língua e saindo correndo">
 </p>
 
 ### Projetos
@@ -34,3 +30,5 @@ Desenvolvedor de software. Nas horas vagas, faço jogos.
   <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
 </p>
+
+[Site](https://guavovic.vercel.app) · [E-mail](mailto:gustavo.victor.pinheiro@gmail.com)
