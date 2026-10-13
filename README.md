@@ -6,7 +6,7 @@
   <a href="https://guavovic.vercel.app">Site</a> · <a href="mailto:gustavo.victor.pinheiro@gmail.com">E-mail</a>
 </p>
 
-# Olá, eu sou o Gustavo 👋
+# Bom dia, boa noite, boa tarde, chefia! Me chamo Gustavo. 👋
 
 Desenvolvedor de software. Nas horas vagas, faço jogos.
 
