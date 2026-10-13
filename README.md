@@ -1,3 +1,7 @@
+# Bom dia, boa noite, boa tarde, chefia! Me chamo Gustavo. 👋
+
+Desenvolvedor de software. Nas horas vagas, faço jogos.
+
 <p align="center">
   <img src="icones/guavovic.gif" alt="guavovic" width="100%">
 </p>
@@ -5,10 +9,6 @@
 <p align="center">
   <a href="https://guavovic.vercel.app">Site</a> · <a href="mailto:gustavo.victor.pinheiro@gmail.com">E-mail</a>
 </p>
-
-# Bom dia, boa noite, boa tarde, chefia! Me chamo Gustavo. 👋
-
-Desenvolvedor de software. Nas horas vagas, faço jogos.
 
 ### Projetos
 
@@ -18,8 +18,7 @@ Desenvolvedor de software. Nas horas vagas, faço jogos.
 <img src="icones/hover-punk.png" alt="" width="18"> **Hover Punk**: jogo de ação 2D em pixel art. Em breve.<br>
 <img src="https://raw.githubusercontent.com/guavovic/ascii-video-player/main/docs/assets/icone.svg" alt="" width="18"> **[ASCII Video Player](https://github.com/guavovic/ascii-video-player)**: toca vídeos no terminal em arte ASCII colorida.<br>
 <img src="https://raw.githubusercontent.com/guavovic/mode-7-city/main/assets/icone.svg" alt="" width="18"> **[Mode 7 City](https://github.com/guavovic/mode-7-city)**: city builder em 16 bits inspirado no SimCity de Super Nintendo.<br>
-<img src="https://raw.githubusercontent.com/guavovic/paralaxe/main/Docs/icone.svg" alt="" width="18"> **[Paralaxe](https://github.com/guavovic/paralaxe)**: pacote para a Unity que monta cenários com parallax.<br>
-<img src="https://raw.githubusercontent.com/guavovic/ponto-facial/main/docs/assets/icone.svg" alt="" width="18"> **[Ponto Facial](https://github.com/guavovic/ponto-facial)**: registro de ponto pelo reconhecimento facial.
+<img src="https://raw.githubusercontent.com/guavovic/paralaxe/main/Docs/icone.svg" alt="" width="18"> **[Paralaxe](https://github.com/guavovic/paralaxe)**: pacote para a Unity que monta cenários com parallax.
 
 ### Tecnologias
 
