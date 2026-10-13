@@ -1,4 +1,4 @@
-# Bom dia, boa noite, boa tarde, chefia! Me chamo Gustavo. 👋
+# Bom dia, boa noite, boa tarde! Me chamo Gustavo 👋
 
 Desenvolvedor de software. Nas horas vagas, faço jogos.
 
