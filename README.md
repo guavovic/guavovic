@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="icones/guavovic.gif" alt="guavovic" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://guavovic.vercel.app">Site</a> · <a href="mailto:gustavo.victor.pinheiro@gmail.com">E-mail</a>
+</p>
+
 # Olá, eu sou o Gustavo 👋
 
 Desenvolvedor de software. Nas horas vagas, faço jogos.
-
-[Site](https://guavovic.vercel.app) · [LinkedIn](https://www.linkedin.com/in/gustavo-victor-pinheiro/) · [E-mail](mailto:gustavo.victor.pinheiro@gmail.com)
 
 ### Projetos
 
