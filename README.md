@@ -1,6 +1,8 @@
 # Bom dia, boa noite, boa tarde! Me chamo Gustavo 👋
 
-<img src="icones/guavovic.gif" alt="O mascote guavovic espiando, dando a língua e saindo correndo" width="100%">
+<p align="center">
+  <img src="icones/guavovic.gif" alt="O mascote guavovic espiando, dando a língua e saindo correndo" width="70%">
+</p>
 
 ### 📂 Projetos
 
