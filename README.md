@@ -4,7 +4,7 @@
   <img src="icones/guavovic.gif" alt="O mascote guavovic espiando, dando a língua e saindo correndo" width="70%">
 </p>
 
-### 📂 Projetos
+### Projetos
 
 <dl><dd>
 <img src="https://raw.githubusercontent.com/guavovic/achai-api/main/docs/assets/icone.svg" alt="" width="18"> <b><a href="https://github.com/guavovic/achai-api">achaí-API</a></b>: busca endereços do Brasil pelo CEP ou pelo nome da rua.<br>
