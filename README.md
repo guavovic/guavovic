@@ -1,5 +1,7 @@
 ### Bom dia, boa noite, boa tarde! Me chamo Gustavo 👋
 
+Sou desenvolvedor full stack: Java e Spring Boot no back-end, Angular e TypeScript no front-end. Hoje trabalho numa plataforma de logística em microsserviços. Por fora, gosto de integrar APIs, usar IA onde ela resolve um problema de verdade e fazer jogos na Unity.
+
 <p align="center">
   <img src="icones/guavovic.gif" alt="O mascote guavovic espiando, dando a língua e saindo correndo" width="70%">
 </p>
@@ -19,5 +21,5 @@
 ---
 
 <p align="center">
-  <a href="https://guavovic.vercel.app">Portfólio</a> &nbsp;·&nbsp; <a href="mailto:gustavo.victor.pinheiro@gmail.com">E-mail</a>
+  <a href="https://guavovic.vercel.app">Portfólio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/gustavo-victor-pinheiro/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:gustavo.victor.pinheiro@gmail.com">E-mail</a>
 </p>
