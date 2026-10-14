@@ -11,19 +11,4 @@
 <img src="https://raw.githubusercontent.com/guavovic/mode-7-city/main/assets/icone.svg" alt="" width="18"> **[Mode 7 City](https://github.com/guavovic/mode-7-city)**: city builder em 16 bits inspirado no SimCity de Super Nintendo.<br>
 <img src="https://raw.githubusercontent.com/guavovic/paralaxe/main/Docs/icone.svg" alt="" width="18"> **[Paralaxe](https://github.com/guavovic/paralaxe)**: pacote para a Unity que monta cenários com parallax.
 
-### Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#" />
-  <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" alt=".NET" />
-  <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" />
-  <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=unity" width="40" height="40" alt="Unity" />
-  <img src="icones/sql-server.svg" width="40" height="40" alt="SQL Server" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-</p>
-
-[Portfólio](https://guavvic.vercel.app) · [E-mail](mailto:gustavo.victor.pinheiro@gmail.com)
+[Portfólio](https://guavovic.vercel.app) · [E-mail](mailto:gustavo.victor.pinheiro@gmail.com)
