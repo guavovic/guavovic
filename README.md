@@ -29,4 +29,4 @@
   <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
 </p>
 
-[Portfólio](https://guavovic.vercel.app) · [E-mail](mailto:contato@guavovic.com)
+[Portfólio](https://guavvic.vercel.app) · [E-mail](mailto:contato@guavovic.com)
