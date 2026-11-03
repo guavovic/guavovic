@@ -7,5 +7,5 @@
 ---
 
 <p align="center">
-  <a href="https://guavovic.vercel.app">Portfólio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/gustavo-victor-pinheiro/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:gustavo.victor.pinheiro@gmail.com">E-mail</a>
+  <a href="https://guavovic.vercel.app">Portfólio</a>
 </p>
