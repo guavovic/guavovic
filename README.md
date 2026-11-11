@@ -7,5 +7,5 @@
 ---
 
 <p align="center">
-  <a href="https://guavovic.vercel.app">Portfólio</a>
+  <a href="https://guavovic.com">Portfólio</a>
 </p>
